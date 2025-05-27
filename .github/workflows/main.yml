@@ -1,5 +1,5 @@
 ---
-name: Qwiet pre-zero Demo1
+name: Qwiet pre-zero Demo
 
 on:
   pull_request:
